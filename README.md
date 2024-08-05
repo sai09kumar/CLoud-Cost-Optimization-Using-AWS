@@ -24,7 +24,7 @@ Create a snapshot for the volume which is stale and not used.
 
 ***Step 3***
 
-Create a lambda function and write the script accordingly that which delete the EBS snapshots if not in use, you can modify these scripts as you can.
+Create a lambda function and write the script accordingly that which delete the EBS snapshots if not in use, you can modify these scripts as you can and terminate the instance created.
 
 ***Step 4***
 
@@ -47,8 +47,15 @@ Attatch the policies accordingly to your need.
 
 Once you attatch the policies, deploy and run the code in lambda function and you will get result as-
 
+![image](https://github.com/user-attachments/assets/a8ed02f8-1137-4d49-9bd1-8d0860bf2ad7)
 
 
+As you can see the Snapshot got deleted.
+
+
+***Step 6***
+
+And you can finally see that the Snapshot and volume created are terminated.
 
 
 
