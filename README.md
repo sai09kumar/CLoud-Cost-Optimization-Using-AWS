@@ -40,6 +40,13 @@ Attatch the policies accordingly to your need.
 ![image](https://github.com/user-attachments/assets/05e4d5fe-eb22-4a27-8314-c5eb8a0dafe8)
 
 
+![image](https://github.com/user-attachments/assets/967409b3-d9c3-48d2-8724-73091c579c98)
+
+
+***Step 5***
+
+Once you attatch the policies, deploy and run the code in lambda function and you will get result as-
+
 
 
 
