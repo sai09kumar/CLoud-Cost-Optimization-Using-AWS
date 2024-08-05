@@ -26,6 +26,15 @@ Create a snapshot for the volume which is stale and not used.
 
 Create a lambda function and write the script accordingly that which delete the EBS snapshots if not in use, you can modify these scripts as you can.
 
+***Step 4***
+
+Once you create the lambda function, it will show an error because you haven't attatched the policies.
+
+![image](https://github.com/user-attachments/assets/ca2fc1c0-4ae1-41e3-a714-27cac00e6b25)
+
+
+
+
 
 
 
