@@ -17,6 +17,15 @@ Create an EC2 instance
 
 ***Step 2***
 
+Create a snapshot for the volume which is stale and not used.
+
+
+![image](https://github.com/user-attachments/assets/99c53b85-2708-4333-b3a9-4f1b2a765919)
+
+
+
+
+
 
 
 
