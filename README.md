@@ -57,7 +57,10 @@ As you can see the Snapshot got deleted.
 
 And you can finally see that the Snapshot and volume created are terminated.
 
+![image](https://github.com/user-attachments/assets/b4ff707d-1146-44e1-ab8a-a86426339346)
 
+
+This is how Lambda functions are used for efficient cost usage and by these we can optimize cost for storage.
 
 
 
