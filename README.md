@@ -33,6 +33,16 @@ Once you create the lambda function, it will show an error because you haven't a
 ![image](https://github.com/user-attachments/assets/ca2fc1c0-4ae1-41e3-a714-27cac00e6b25)
 
 
+***Step 5***
+
+Attatch the policies accordingly to your need.
+
+![image](https://github.com/user-attachments/assets/05e4d5fe-eb22-4a27-8314-c5eb8a0dafe8)
+
+
+
+
+
 
 
 
