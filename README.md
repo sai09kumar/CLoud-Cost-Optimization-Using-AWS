@@ -22,6 +22,12 @@ Create a snapshot for the volume which is stale and not used.
 
 ![image](https://github.com/user-attachments/assets/99c53b85-2708-4333-b3a9-4f1b2a765919)
 
+***Step 3***
+
+Create a lambda function and write the script accordingly that which delete the EBS snapshots if not in use, you can modify these scripts as you can.
+
+
+
 
 
 
